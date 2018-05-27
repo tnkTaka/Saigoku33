@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">三十三所巡礼</string>
+    <string name="btn_save">保存</string>
+    <string name="tv_navi"> 寺院情報を入力してください。</string>
+    <string name="tv_navi_honzon"> 寺院名</string>
+    <string name="tv_navi_shushi"> 宗旨</string>
+    <string name="tv_navi_address"> 所在地</string>
+    <string name="tv_navi_url"> URL</string>
+    <string name="tv_navi_content"> 感想</string>
+</resources>
